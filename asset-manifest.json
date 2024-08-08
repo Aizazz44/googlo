@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/googlo/static/css/main.51e4327b.css",
+    "main.js": "/googlo/static/js/main.3df37c8f.js",
+    "index.html": "/googlo/index.html",
+    "main.51e4327b.css.map": "/googlo/static/css/main.51e4327b.css.map",
+    "main.3df37c8f.js.map": "/googlo/static/js/main.3df37c8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51e4327b.css",
+    "static/js/main.3df37c8f.js"
+  ]
+}
